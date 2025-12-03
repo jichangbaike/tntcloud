@@ -188,7 +188,7 @@ TNTCloud 基于 Trojan 协议与订阅链接方式，支持多平台和常见客
 
 - **桌面端**  
   - Windows / macOS / Linux：  
-    - 可配合 Clash 系列、NekoRay 等客户端使用；  
+    - 可配合 Clash Verge、FlClash 等客户端使用；  
     - 通过订阅链接导入节点，实现统一管理。
 
 - **移动端**  
