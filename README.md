@@ -1,6 +1,6 @@
 # TNTCloud 机场官网地址入口说明与多平台使用指南
 
-<img src="https://raw.githubusercontent.com/jichangbaike/tntcloud/refs/heads/main/images/6640.jpg" alt"tntcloud">
+<img src="https://raw.githubusercontent.com/jichangbaike/tntcloud/refs/heads/main/images/6640.jpg" alt="tntcloud">
 
 TNTCloud 是一家 2024 年开始运营的跨境网络传输服务提供商，由一家运营多年、口碑稳定的老牌机场衍生出来的分站。  
 核心团队与老板常驻海外，采用 **Trojan 协议 + 全 IPLC 专线传输** 的产品路线，整体更偏向长期稳定运营，而非短期促销型项目。
