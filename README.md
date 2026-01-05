@@ -14,7 +14,7 @@ TNTCloud（tntyun）是一家 2024 年开始运营的跨境网络传输服务提
 
 ## 快速入口
 
-- 👉 **TNTCloud 官网地址入口**：  
+- 👉 **TNTCloud 官网地址入口（推荐）**：  
   [https://finalto.xyz/Ph3Teg](https://finalto.xyz/Ph3Teg)
 
 建议在桌面浏览器中打开该链接，完成账号注册与套餐选择。后续订阅获取和客户端配置步骤，可参考本说明文档。
@@ -290,7 +290,7 @@ A：建议优先查看 TNTCloud 官网提供的帮助文档、公告与使用说
 
 ## 官网地址入口与使用提示
 
-- 👉 **TNTCloud 官网注册入口**：  
+- 👉 **TNTCloud 官网地址入口（推荐）**：  
   [https://finalto.xyz/Ph3Teg](https://finalto.xyz/Ph3Teg)
 
 > 本仓库仅整理公开入口信息与基础使用说明，不提供账号销售、代开、转租，不提供节点细节或源代码。  
