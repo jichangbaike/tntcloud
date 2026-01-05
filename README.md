@@ -1,6 +1,6 @@
-# TNTCloud 机场官网注册入口说明与多平台使用指南
+# TNTCloud 机场官网地址入口说明与多平台使用指南
 
-<img src="https://raw.githubusercontent.com/jichangbaike/tntcloud/refs/heads/main/images/6640.jpg" >
+<img src="https://raw.githubusercontent.com/jichangbaike/tntcloud/refs/heads/main/images/6640.jpg" alt"tntcloud">
 
 TNTCloud 是一家 2024 年开始运营的跨境网络传输服务提供商，由一家运营多年、口碑稳定的老牌机场衍生出来的分站。  
 核心团队与老板常驻海外，采用 **Trojan 协议 + 全 IPLC 专线传输** 的产品路线，整体更偏向长期稳定运营，而非短期促销型项目。
@@ -8,13 +8,13 @@ TNTCloud 是一家 2024 年开始运营的跨境网络传输服务提供商，�
 本仓库用于整理 TNTCloud 的官网注册入口说明、套餐信息、多平台使用指引以及常见问题，仅提供公开信息汇总，请以官网公布为准。
 
 > 本文档不构成任何投资或使用建议，仅作为使用说明类资料，请在合法合规前提下使用相关服务。  
-> 最后更新：2025-12-01（如套餐或线路有调整，以官网为准）
+> 最后更新：2026-01-05（如套餐或线路有调整，以官网为准）
 
 ---
 
 ## 快速入口
 
-- 👉 **TNTCloud 官方注册入口（直达）**：  
+- 👉 **TNTCloud 官网地址入口**：  
   [https://finalto.xyz/Ph3Teg](https://finalto.xyz/Ph3Teg)
 
 建议在桌面浏览器中打开该链接，完成账号注册与套餐选择。后续订阅获取和客户端配置步骤，可参考本说明文档。
@@ -32,7 +32,7 @@ TNTCloud 是一家 2024 年开始运营的跨境网络传输服务提供商，�
 7. [流媒体与 AI 使用场景概览](#流媒体与-ai-使用场景概览)  
 8. [使用建议与线路选择](#使用建议与线路选择)  
 9. [常见问题（FAQ）](#常见问题faq)  
-10. [官方注册入口与使用提示](#官方注册入口与使用提示)  
+10. [官网地址入口与使用提示](#官网地址入口与使用提示)  
 
 ---
 
@@ -209,7 +209,7 @@ TNTCloud 基于 Trojan 协议与订阅链接方式，支持多平台和常见客
 
 以下为通用操作流程，帮助新用户快速理解订阅与导入步骤，具体以官网为准：
 
-1. **访问 TNTCloud 官方注册入口**  
+1. **访问 TNTCloud 官网注册入口**  
    通过本文档提供的注册链接进入 TNTCloud 用户中心：  
    [https://finalto.xyz/Ph3Teg](https://finalto.xyz/Ph3Teg)
 
@@ -288,9 +288,9 @@ A：建议优先查看 TNTCloud 官网提供的帮助文档、公告与使用说
 
 ---
 
-## 官方注册入口与使用提示
+## 官网地址入口与使用提示
 
-- 👉 **TNTCloud 官方注册入口（直达）**：  
+- 👉 **TNTCloud 官网注册入口**：  
   [https://finalto.xyz/Ph3Teg](https://finalto.xyz/Ph3Teg)
 
 > 本仓库仅整理公开入口信息与基础使用说明，不提供账号销售、代开、转租，不提供节点细节或源代码。  
